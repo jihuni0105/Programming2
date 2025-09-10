@@ -4,3 +4,21 @@
 
 /.cache
 /.eclipse
+/AppData/Roaming/Code/CachedData/6f17636121051a53c88d3e605c491d22af2ba755/chrome
+/AppData/Roaming/Code/CachedExtensionVSIXs
+/AppData/Roaming/Code/CachedProfilesData/__default__profile__
+/AppData/Roaming/Code/Cache/Cache_Data
+/AppData/LocalLow/NVIDIA/PerDriverVersion/DXCache
+/AppData/LocalLow/Microsoft/CryptnetUrlCache/MetaData
+/AppData/LocalLow/Adobe/Acrobat/DC/Reader/Synchronizer/metadata
+/AppData/LocalLow/Adobe/Acrobat/DC/Reader/Synchronizer/metadata/Synchronizer
+/AppData/LocalLow/Microsoft/CryptnetUrlCache/Content
+/AppData/LocalLow/Microsoft/CryptnetUrlCache/Content/103621DE9CD5414CC2538780B4B75751
+/AppData/Roaming/Code/CachedConfigurations/defaults/configurationDefaultsOverrides/configuration.json
+/AppData/LocalLow/Adobe/Acrobat/DC/Acrobat/Eureka/AcroCoreSync
+/AppData/Local/Temp/ba1txdpy.rta/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/tr
+/AppData/Local/Temp/ba1txdpy.rta/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/zh-Hans
+/AppData/Local/Temp/ba1txdpy.rta/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/zh-Hant
+/AppData/Local/Temp/ba1txdpy.rta/resources/app/ServiceHub/Services/Microsoft.VisualStudio.Setup.Service/runtimes/win-x86/native
+*.dll
+*.dll
