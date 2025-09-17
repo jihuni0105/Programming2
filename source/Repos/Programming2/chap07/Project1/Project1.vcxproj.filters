@@ -15,10 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="0910ass1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0910array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="0903PR1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="0907PR.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="inclass.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
