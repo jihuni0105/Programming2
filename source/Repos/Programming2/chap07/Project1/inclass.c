@@ -82,6 +82,17 @@ void printArrayDouble(double* arr, int sz)
 	printf("\n");
 }
 
+int test_function_pointer()
+{
+	double(*pfunc)(double a, double b) = NULL;
+
+	pfunc = add;
+	
+	add(3, 4);
+
+	(*pfunc)(3, 4);
+}
+
 // 정수 덧셈 결과 반환
 // 입력 : 두 실수
 // 출력 : 더한 값
